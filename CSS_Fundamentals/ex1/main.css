@@ -1,0 +1,43 @@
+table {
+    width: 35%;   
+    padding: 10px; 
+}
+#dot {
+    content:  url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAACCCAMAAAC93eDPAAAAaVBMVEU0wwD///8gwAARvgArwQD+//1ezEjz+/Ht+evd89hrz1jl9uJCxiyk4Jnw+u32/PWH13hy0l7Y8tN71HNRyj1x0WeR2oi96LfG67171Gzi9d03xB1Exyab3pC76LKr4qDR78q15quQ24KrDPTaAAAEDUlEQVR4nO3b2ZaiMBAA0JBEQQRRQQVxQf//Iye0tixZSCAVZ+ZQb/3k7UplD8j7eqBvA2bCTJgJ/wchCVZ5fNzuQha74nk97QN/4ZBQxWlGCcGYvgNj9ld0OOYjFWaE9ePAfo4iQVDGWsYrWEJwWlLxz38YmGbxGoywfkZE+fsfRVqZtYgmYVUQPPz7bwVZ5tYJ51AnAW1EZoDQIGyO1Ajwao9QuyaGCaeLdhN0EbFmSQwR/IKMAdRBsrMNQl6OSsE7EeQ+mbCI1ePAYODCn0ZI0tGN8DFkwRSCn01ohN+geHDMlhMCNK0RPoihIUJKWF/sCNj8NWCQEQJbAhZkP4bgW2oFHYOYkGQ2BQiVqpoUEhaphb7QDpptDAnx5PGAMyzNCLnlHNSBryYEv7RbCG+DtCQFhAIgCXU5yKYLnnCyXgivwFtdwuYCI2CGSpNwBGmGOmimRzhDlOI7yE2LEAISUJRoEFZAtfgKLFzI9QgpZBIQEnbMLmENmgSWhtMg4QnWHV5BL0OEIIIViMeGDgFqYGyCCobIDmEJW4w/Br5ftglreAEi/Fq2TXgAF2MdNFUSDg6yIBga2gTwYqyDX023CHsnBBwrCLGDUmDFECoIwPPDb2T9btkQksyJANF+MTSEwE0S+J12Q4BdKjSBH1JC7orQnyYagpsOIegSDQFu6dwjRFKCoz7JDFLCzhWBSAmgy/eZ8E8R/oJyLL7fKaG3MZ8opYTr9wfom6NpihZSgpulo2CH31qyOGoIbnfdEHzwPe0rFAu3hZOdDEJR/zi6tYI+OiHwp9EtgpuVG34qCImbDR13yNHeU1q+BxFHyd0atgkuFrD00Bd0CCsXRxwPJcFFS2D+hqhDgG8JuuMEXQL8YZPo7LN79Am+bOkvV3hCBX0AzB2xcIQF8MljKXrg0juJhx2k+cFZQPAi0DQI31P0CRDXpL8huS7lrscAdzSC82chYQ2WBiy+HRNcldq/M3+F9OacJyyAZgrpGwbBnfUZJA2CKVJO8O4Qjwf6Gxg1wbP9iIMVQil/cyck+NbLgds8DBHYzsqugYjuJ9UEb2W1KeSlqCB4ucU0ENEUPUywOGcS4fyoQbC2fBnIgfKxYWXlZQ939m9C8PbT+yalkrlJk+BtlhM7Bi7Vj/yGCfUZ2JREkEK8QjAisMYYnQhaPjQAGk+x/e3IROBQ80sFjQfpVTaie2KNOtQneN4tMmwNjK46VWBA8JJ7ZtAcuHwOv342JbCSuF30EBTTq9mHIgYfqlRbOvSZBCV4p5qXpxJYe+RpJvlap/73SXl4KN64WiGw8PdxmNUfKjWfbdR/YRotj5VJBYwn1JGs8sczjBD5CXwJ0/tpP+Lfn0CwHDNhJsyEmTATZsJMUMUf+dk5yjNGxVEAAAAASUVORK5CYII=);
+    width: 20px;
+    height: 20px;
+}
+
+#stena{
+background-color: grey; 
+}
+
+.belo{
+    color: white;
+    font-style: italic;
+    padding: 10px;
+    
+}
+.belo span {
+    margin-bottom: 20px;
+}
+.julto{
+    color: rgb(219, 176, 97);
+}
+
+.cherveno {
+    color: red;
+
+}
+
+.grey {
+    color: #afa6a6;
+}
+
+.orange{
+    color: orange;
+}
+
+/* .padding {
+    margin: 20px 20px 20px 20px;
+} */

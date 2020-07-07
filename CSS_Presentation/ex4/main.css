@@ -1,0 +1,11 @@
+.decor {
+    border: 1em;
+}
+
+#underL {
+    text-decoration: underline;
+}
+
+.positI {
+    text-align: right;
+}

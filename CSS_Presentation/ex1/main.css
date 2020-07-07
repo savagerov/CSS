@@ -1,0 +1,22 @@
+p {
+    color: #0094ff;
+    font-size: 2em;
+    font-style: normal;
+    text-align: center justify;
+
+
+}
+
+.diftext {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Edwardian Script ITC";
+    src: url("./EdwardianScriptITC.ttf");
+}
+
+p:first-letter {
+    font-size: 2.9em;
+    font-family: 'Edwardian Script ITC';
+}

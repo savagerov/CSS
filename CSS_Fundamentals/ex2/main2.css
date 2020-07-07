@@ -1,0 +1,25 @@
+table, tr, td {
+    padding: 10px
+}
+#spec {
+        padding: 2px;
+        border: grey;
+        font-size: 1em;
+        font-weight: normal;
+}
+
+.spacing {
+    background-color: green;
+    color: white;
+}
+
+tr:nth-child(2n+3) {
+    background: lightgrey;
+}
+
+.flag {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAElBMVEUAAAD/zgDdAADnAADaAAD/2AAtsSEoAAAA+ElEQVR4nO3QMQGAMAAEsYeCf8tIuI0pkZANAAAAAAAAAAAAAAAAAAAAgB8dwm6CoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKewh7CbsIipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUofMGTNC8HkSxoAAAAASUVORK5CYII=);
+    width: 20px;
+    height: 20px;
+}
+
